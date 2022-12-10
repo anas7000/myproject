@@ -1,1 +1,1 @@
-alert(hello how are you .> are you akay)
+alert(are you you akay)
